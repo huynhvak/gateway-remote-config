@@ -1,0 +1,11 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFE83F202",
+		"servers": [ { "server_address": "router.eu.thethings.network", "serv_port_up": 1700, "serv_port_down": 1700, "serv_enabled": true } ],
+		"ref_latitude": 48.90333726,
+		"ref_longitude": 2.36913652,
+		"ref_altitude": 0,
+		"contact_email": "kevin.-huynh-van-loc@arteliagroup.com",
+		"description": "ttn-ic880a" 
+	}
+}
